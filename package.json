@@ -1,0 +1,9 @@
+{
+  "name": "road-engineering-expert",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Prototype professionnel multi-référentiels pour l'ingénierie routière",
+  "scripts": {
+    "start": "python3 -m http.server 4173"
+  }
+}
